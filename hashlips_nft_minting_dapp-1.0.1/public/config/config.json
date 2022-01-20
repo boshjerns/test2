@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0c72CF3Ac9D99587E83581a24987088170e9d323",
+  "SCAN_LINK": "https://kovan.etherscan.io/address/0x0c72cf3ac9d99587e83581a24987088170e9d323#readContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Camera Person NFT",
+  "SYMBOL": "Camera Person NFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 280000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cameraperson",
+  "SHOW_BACKGROUND": true
+}
